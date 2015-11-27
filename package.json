@@ -1,0 +1,39 @@
+{
+  "name": "dpd-token-auth",
+  "version": "0.0.2",
+  "description": "A Deployd resource that enables authentication using tokens and sign-up using other services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "apache",
+  "dependencies": {
+    "debug": "^2.1.1",
+    "googleapis": "^1.1.1",
+    "hat": "0.0.3",
+    "jsonwebtoken": "^3.2.2",
+    "underscore": "^1.7.0"
+  },
+  "gitHead": "db2286aa4695e699934d286aa3eb9c76b54ffb2c",
+  "_id": "dpd-token-auth@0.0.2",
+  "_shasum": "334467429d04ae24727a45069fcb4aee7bd42e0d",
+  "_from": "dpd-token-auth@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "saadfarooq",
+    "email": "sa@dfarooq.com"
+  },
+  "maintainers": [
+    {
+      "name": "saadfarooq",
+      "email": "sa@dfarooq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "334467429d04ae24727a45069fcb4aee7bd42e0d",
+    "tarball": "http://registry.npmjs.org/dpd-token-auth/-/dpd-token-auth-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/dpd-token-auth/-/dpd-token-auth-0.0.2.tgz"
+}

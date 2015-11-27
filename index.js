@@ -67,7 +67,6 @@ TokenAuth.prototype.handleLogin = function (ctx) {
       if (!self.userCollection.checkHash(self.userCollection, user, ctx.body)) {
         return done(new Error('Invalid password'), user)
       }
-      console.log('user!!', user)
       done(null, user)
     })
   }

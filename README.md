@@ -1,5 +1,5 @@
 # dpd-token-auth
-A (Deployd)[http://deployd.com] resource that enables authentication using a Bearer token Authorization header in your requests.
+A [Deployd](http://deployd.com) resource that enables authentication using a Bearer token Authorization header in your requests.
 
     Http-headers
     ...
